@@ -1,0 +1,18 @@
+{
+  "name": "node-shell",
+  "version": "1.0.0",
+  "description": "node_modules",
+  "main": "bash.js",
+  "dependencies": {
+    "request": "^2.60.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "request"
+  },
+  "keywords": [
+    "request"
+  ],
+  "author": "EmilySanford",
+  "license": "ISC"
+}
